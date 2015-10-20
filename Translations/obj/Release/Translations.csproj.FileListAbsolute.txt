@@ -1,0 +1,14 @@
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\bin\Release\Translations.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\bin\Release\Translations.exe
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\bin\Release\Translations.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.AboutBox1.resources
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.Form1.resources
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.Form2.resources
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.Form3.resources
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.exe
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.Form4.resources
+C:\Users\user\documents\visual studio 2015\Projects\Translations\Translations\obj\Release\Translations.csprojResolveAssemblyReference.cache
